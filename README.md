@@ -1,5 +1,15 @@
 ## Exercicios 
 
+1. [Reverse Number](1-reverse-number/README.md)
+
+## Ranking 🏆
+
+| Nome | Pontuação |
+|------|-----------|
+|[AnaBastos](https://github.com/anabastos/)|0|
+|      |           |
+|      |           |
+
 ## Pontos para avaliação ✅
 - Enviar desafio incompleto +3
 - Enviar desafio passando todos os testes +6
@@ -20,13 +30,5 @@
 - Após o termino, faça merge com a master e dê push
 - Faça o PR
 - Procure PRs de outras pessoas para comentar tbm 🙂
-
-## Ranking 🏆
-
-| Nome | Pontuação |
-|------|-----------|
-|[AnaBastos](github.com/anabastos/)|0|
-|      |           |
-|      |           |
 
 Ganha 50 pontos quem ajudar a automatizar isso
