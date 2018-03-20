@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^6.0.0",
+    "ramda": "^0.25.0"
+  },
+  "scripts": {
+    "start": "node anabastos.js"
+  }
+}
