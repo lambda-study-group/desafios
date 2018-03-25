@@ -2,6 +2,7 @@
 
 1. [Reverse Number](1-reverse-number/README.md)
 1. [Primality Test](2-primality-test/README.md)
+3. [Silicon Valley - Huffman compression](3-silicon-valley/README.md)
 
 ## Ranking 🏆
 
