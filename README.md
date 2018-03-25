@@ -12,6 +12,7 @@
 |[ruan-brandao](https://github.com/anabastos/)|7|
 |[anabastos](https://github.com/anabastos/)|7|
 |[abekroenem](https://github.com/abekroenem/)|6|
+|[caioluiz](https://github.com/caioluiz/)|6|
 |[appositum](https://github.com/appositum/)|6|
 |[brunoczim](https://github.com/brunoczim/)|6|
 |[ihavenonickname](https://github.com/ihavenonickname/)|3|
