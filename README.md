@@ -1,6 +1,7 @@
 ## Exercicios 
 
 1. [Reverse Number](1-reverse-number/README.md)
+1. [Primality Test](2-primality-test/README.md)
 
 ## Ranking 🏆
 
@@ -19,6 +20,7 @@
 - Enviar desafio incompleto +3
 - Enviar desafio passando todos os testes +6
 - Avaliar/criticar/sugerir mudanças para o PR dos coleguinhas(+1 p/ cada coleguinha)
+- Enviar atrasado -3
 
 ## Estrutura de pastas 💼
 ```
