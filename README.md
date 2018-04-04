@@ -1,19 +1,28 @@
 ## Exercicios 
 
 1. [Reverse Number](1-reverse-number/README.md)
+1. [Primality Test](2-primality-test/README.md)
+3. [Silicon Valley - Huffman compression](3-silicon-valley/README.md)
 
 ## Ranking 🏆
 
 | Nome | Pontuação |
 |------|-----------|
-|[AnaBastos](https://github.com/anabastos/)|0|
-|      |           |
+|[mracos](https://github.com/mracos/)|7|
+|[ruan-brandao](https://github.com/anabastos/)|7|
+|[anabastos](https://github.com/anabastos/)|7|
+|[abekroenem](https://github.com/abekroenem/)|6|
+|[caioluiz](https://github.com/caioluiz/)|6|
+|[appositum](https://github.com/appositum/)|6|
+|[brunoczim](https://github.com/brunoczim/)|6|
+|[ihavenonickname](https://github.com/ihavenonickname/)|3|
 |      |           |
 
 ## Pontos para avaliação ✅
 - Enviar desafio incompleto +3
 - Enviar desafio passando todos os testes +6
 - Avaliar/criticar/sugerir mudanças para o PR dos coleguinhas(+1 p/ cada coleguinha)
+- Enviar atrasado -3
 
 ## Estrutura de pastas 💼
 ```
