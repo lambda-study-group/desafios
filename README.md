@@ -8,15 +8,14 @@
 
 | Nome | Pontuação |
 |------|-----------|
-|[mracos](https://github.com/mracos/)|7|
+|[mracos](https://github.com/mracos/)|13|
+|[anabastos](https://github.com/anabastos/)|13|
+|[appositum](https://github.com/appositum/)|12|
 |[ruan-brandao](https://github.com/anabastos/)|7|
-|[anabastos](https://github.com/anabastos/)|7|
 |[abekroenem](https://github.com/abekroenem/)|6|
 |[caioluiz](https://github.com/caioluiz/)|6|
-|[appositum](https://github.com/appositum/)|6|
 |[brunoczim](https://github.com/brunoczim/)|6|
 |[ihavenonickname](https://github.com/ihavenonickname/)|3|
-|      |           |
 
 ## Pontos para avaliação ✅
 - Enviar desafio incompleto +3
