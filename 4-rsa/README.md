@@ -1,27 +1,29 @@
 # Primality Test
 
 O objetivo desse desafio é fazer uma função que descriptografa uma mensagem utilizando a cryptografia RSA, que se baseia na fatoração de numeros primos.
-No desafio temos uma palavra que está cryprografada em blocos de código que precisa ser descriptografada descobrindo a chave privada a partir da chave publica.
+No desafio temos uma palavra que está criprografada em blocos de código a partir de uma chave publica que precisa ser descriptografada descobrindo a chave privada.
 
-A chave publica da criptografia é feita apartir da multiplicação de primos(`n`) e de um divisor(`e`) com MDC 1 do φ de dessa multiplicação(Para entender melhor)[https://www.lambda3.com.br/2012/12/entendendo-de-verdade-a-criptografia-rsa-parte-ii/].
+A chave publica é feita apartir da multiplicação de primos(`n`) e de um divisor(`e`) com MDC 1 do φ de dessa multiplicação[para entender melhor](https://www.lambda3.com.br/2012/12/entendendo-de-verdade-a-criptografia-rsa-parte-ii/).
 
-Para o desafio temos a chave publica: `(n = 21181,e = 11)`
+Para o desafio temos a chave publica: `(n = ?,e = ?)`
 
-Mas para descriptografar é preciso descobrir a chave privada.
-Para isso precisamos encontrar o inverso multiplicativo `d` de `e` a partir do [algoritmo de euclides estendido](https://pt.wikipedia.org/wiki/Algoritmo_de_Euclides_estendido).
+Mas para descriptografar é preciso descobrir a chave privada com valores de `(n = ?, d = ?)`. Para isso precisamos encontrar o `d` pelo inverso multiplicativo de `e`. Um meio de descobrir é por meio do [algoritmo de euclides estendido](https://pt.wikipedia.org/wiki/Algoritmo_de_Euclides_estendido).
 
-Com o `d` calculado é possivel ter a chave privada: `(n = 21181, d = ?)`
-e descritografar os valores dos blocos um de cada vez por `valor^d mod n`
+Com o `d` calculado, e com o `n` da chave publica é possivel descritografar os valores dos blocos um de cada vez por `valor^d mod n` substituindo os valores da chave privada.
 
 ----------------------
 
-**Input:** Valores, `n`, e `e` são inteiros
-**Output**: Char / String
+- **Input:** `v`(valor), `n`, e `e` são inteiros
+- **Output**: Char / String
 
 ### Testes
 
-Os blocos a serem descriptografados são:
+Para o desafio temos a chave publica: `(n = 21181,e = 11)`
+
+e os blocos a serem descriptografados são:
+
 `15706 8628 13264 21022 18699 8628`
+
 
 Após descriptografar os valores em código, deve-se fazer um "de para" na tabela abaixo para descobrir a palavra secreta. Se deu certo deixe no seu README.md a resposta :star:
 
