@@ -16,6 +16,32 @@ Com o `d` calculado, e com o `n` da chave publica é possivel descritografar os 
 - **Input:** `v`(valor), `n`, e `e` são inteiros
 - **Output**: Char / String
 
+
+# Resumo de termos e relações
+
+- (`p`, `q`) - Numeros primos "qualquer"
+
+- (`n`, `e`) - Chave publica (você sabe)
+
+- (`d`, `e`) - Chave privada (você quer descobrir)
+
+- `n = p * q` - Calculo de `n`
+
+- `ᶲ(p, q) = (p - 1)(q - 1)` - Calculo de ᶲ
+
+- `e * d ≡ (K * ᶲ(p, q)) + 1` - Relação entre `p`, `q`, `e` e `d`. `K` é um inteiro positivo (existem vários possiveis `K` que satisfazem a relação).
+
+- assert: `e` deve ser coprimo de `ᶲ(p, q)`
+
+- assert: `d` deve ser coprimo de `ᶲ(p, q)`
+
+- `coprimos`: quando o `mdc(a, b)` é 1
+
+- `msg_crypografada = mod(power(msg, e), n)`
+
+- `msg = mod(power(msg_crypografada, d), n)`
+
+
 ### Testes
 
 Para o desafio temos a chave publica: `(n = 21181,e = 11)`
