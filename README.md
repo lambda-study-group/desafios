@@ -11,10 +11,11 @@
 |[mracos](https://github.com/mracos/)|13|
 |[anabastos](https://github.com/anabastos/)|13|
 |[appositum](https://github.com/appositum/)|12|
+|[caioluiz](https://github.com/caioluiz/)|12|
 |[ruan-brandao](https://github.com/anabastos/)|7|
 |[abekroenem](https://github.com/abekroenem/)|6|
-|[caioluiz](https://github.com/caioluiz/)|6|
 |[brunoczim](https://github.com/brunoczim/)|6|
+|[v0idpwn](https://github.com/v0idpwn/)|6|
 |[ihavenonickname](https://github.com/ihavenonickname/)|3|
 
 ## Pontos para avaliação ✅

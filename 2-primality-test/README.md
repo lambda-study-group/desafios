@@ -12,6 +12,8 @@ Alguns algoritmos de primality são [Fermat](https://en.wikipedia.org/wiki/Ferma
 | [anabastos](https://github.com/anabastos) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/anabastos) |
 | [mracos](https://github.com/mracos) | [Elixir](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/mracos) |
 | [appositum](https://github.com/appositum) | [Elixir](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/appositum) |
+| [v0idpwn](https://github.com/v0idpwn) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/v0idpwn) |
+| [caioluz](https://github.com/elixir) | [Elixir](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/caioluz) |
 
 **Input**: Numero inteiro
 **Output**: Bool(Se é primo ou não)
