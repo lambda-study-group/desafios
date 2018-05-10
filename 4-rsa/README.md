@@ -1,4 +1,4 @@
-# Primality Test
+# RSA Challenge
 
 O objetivo desse desafio é fazer uma função que descriptografa uma mensagem utilizando a cryptografia RSA, que se baseia na fatoração de numeros primos.
 No desafio temos uma palavra que está criprografada em blocos de código a partir de uma chave publica que precisa ser descriptografada descobrindo a chave privada.
