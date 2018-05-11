@@ -41,7 +41,7 @@ module Huffman =
         | Some (Leaf (c, _)) -> Map.ofList [(c, "0")]
         | _ -> codeTable' Map.empty "" tree
 
-    let translate text table =
+    let private translate text table =
         text
         |> Seq.map (fun x -> Map.find x table)
         |> Seq.fold (+) ""
