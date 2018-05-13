@@ -1,8 +1,6 @@
 #!/usr/bin/env clojure
 
-(let [n (biginteger 21181)
-      e (biginteger 11)
-      cry-msg [15706 8628 13264 21022 18699 8628]
+(let [[e n & cry-msg] (map biginteger *command-line-args*)
       cry-chars (map (fn [i]
                        [(.modPow (biginteger (- i 87)) e n) (char i)])
                      (range (int \a) (int \z)))]
