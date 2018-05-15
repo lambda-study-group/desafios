@@ -21,9 +21,9 @@ Com o `d` calculado, e com o `n` da chave publica é possivel descritografar os 
 
 - (`p`, `q`) - Numeros primos "qualquer"
 
-- (`n`, `e`) - Chave publica (você sabe)
+- (`e`, `n`) - Chave publica (você sabe)
 
-- (`d`, `e`) - Chave privada (você quer descobrir)
+- (`d`, `n`) - Chave privada (você quer descobrir)
 
 - `n = p * q` - Calculo de `n`
 
@@ -32,8 +32,6 @@ Com o `d` calculado, e com o `n` da chave publica é possivel descritografar os 
 - `e * d ≡ (K * ᶲ(p, q)) + 1` - Relação entre `p`, `q`, `e` e `d`. `K` é um inteiro positivo (existem vários possiveis `K` que satisfazem a relação).
 
 - assert: `e` deve ser coprimo de `ᶲ(p, q)`
-
-- assert: `d` deve ser coprimo de `ᶲ(p, q)`
 
 - `coprimos`: quando o `mdc(a, b)` é 1
 
