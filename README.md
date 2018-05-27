@@ -8,7 +8,7 @@
 
 | Nome | Pontuação |
 |------|-----------|
-|[souenzzo](https://github.com/souenzzo/)|18|
+|[souenzzo](https://github.com/souenzzo/)|16|
 |[mracos](https://github.com/mracos/)|13|
 |[anabastos](https://github.com/anabastos/)|13|
 |[appositum](https://github.com/appositum/)|12|
@@ -23,7 +23,7 @@
 - Enviar desafio incompleto +3
 - Enviar desafio passando todos os testes +6
 - Avaliar/criticar/sugerir mudanças para o PR dos coleguinhas(+1 p/ cada coleguinha)
-- Enviar atrasado -3
+- Enviar atrasado -1
 
 ## Estrutura de pastas 💼
 ```
