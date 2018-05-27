@@ -8,11 +8,11 @@
 
 | Nome | Pontuação |
 |------|-----------|
+|[souenzzo](https://github.com/souenzzo/)|18|
 |[mracos](https://github.com/mracos/)|13|
 |[anabastos](https://github.com/anabastos/)|13|
 |[appositum](https://github.com/appositum/)|12|
 |[caioluiz](https://github.com/caioluiz/)|12|
-|[souenzzo](https://github.com/souenzzo/)|12|
 |[ruan-brandao](https://github.com/anabastos/)|7|
 |[abekroenem](https://github.com/abekroenem/)|6|
 |[brunoczim](https://github.com/brunoczim/)|6|
