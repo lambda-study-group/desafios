@@ -13,17 +13,18 @@
 |[anabastos](https://github.com/anabastos/)|13|
 |[appositum](https://github.com/appositum/)|12|
 |[caioluiz](https://github.com/caioluiz/)|12|
-|[ruan-brandao](https://github.com/anabastos/)|7|
+|[ihavenonickname](https://github.com/ihavenonickname/)|8|
+|[ruan-brandao](https://github.com/ruan-brandao/)|7|
 |[abekroenem](https://github.com/abekroenem/)|6|
 |[brunoczim](https://github.com/brunoczim/)|6|
 |[v0idpwn](https://github.com/v0idpwn/)|6|
-|[ihavenonickname](https://github.com/ihavenonickname/)|3|
+|[mschonfinkel](https://github.com/mschonfinkel/)|5|
 
 ## Pontos para avaliação ✅
 - Enviar desafio incompleto +3
 - Enviar desafio passando todos os testes +6
 - Avaliar/criticar/sugerir mudanças para o PR dos coleguinhas(+1 p/ cada coleguinha)
-- Enviar atrasado -1
+- Enviar atrasado -1(Regra invalidada a partir do desafio 3)
 
 ## Estrutura de pastas 💼
 ```
