@@ -1,0 +1,7 @@
+{
+    application, reverse_number, [
+        {description, "Reverse Number"},
+        {vsn, "0.0.1"},
+        {applications, [kernel, stdlib]}
+    ]
+}.
