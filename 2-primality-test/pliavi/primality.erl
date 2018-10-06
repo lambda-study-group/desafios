@@ -9,10 +9,6 @@ primes_until(N) -> remove_composites(1, lists:seq(2, N + 1)).
 remove_composites(I, List) when I >= length(List) -> List;
 remove_composites(I, List) -> 
     N = lists:nth(I, List),
-<<<<<<< HEAD
-=======
-    % io:fwrite("~w -> ~w~n", [N, List]),
->>>>>>> ead51b940031e8915ff0b5feeef03fd28cd718bf
     Filter = fun(X) -> (X == N) orelse (X rem N =/= 0) end,
     remove_composites(I + 1, lists:filter(Filter, List)).
 
@@ -30,7 +26,3 @@ assertEqual(Name, In, Out) ->
     io:fwrite("Test: " ++ Name ++ " .. \e[0;31m[FAIL]\e[0m\n"),
     io:fwrite(" > Expected: ~w\n", [In]),
     io:fwrite(" > Found...: ~w\n", [Out]).
-<<<<<<< HEAD
-=======
-
->>>>>>> ead51b940031e8915ff0b5feeef03fd28cd718bf
