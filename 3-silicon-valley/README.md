@@ -1,3 +1,8 @@
+| User        | Solution           |
+| ------------- |:-------------:|
+| [pliavi](https://github.com/pliavi) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/3-silicon-valley/pliavi) |
+| [ihavenonickname](https://github.com/ihavenonickname) | [Elixir](https://github.com/lambda-study-group/desafios/tree/master/3-silicon-valley/ihavenonickname) |
+
 # Silicon Valley
 
 **Inicio:** 02/04/18
@@ -12,8 +17,6 @@ Objetivo desse desafio é usar o [algoritmo de huffman](https://web.stanford.edu
 
 **Input:**: "AAAAAABCCCCCCDDEEEEE"
 **Output:**: "0000000000001100101010101011111111010101010"
-
-*TODO: Adicionar mais testes*
 
 [Geeks For Geeks - Greedy Algorithms | Set 3 (Huffman Coding)](https://www.geeksforgeeks.org/greedy-algorithms-set-3-huffman-coding/)
 [Geeks For Geeks - Huffman Decoding](https://www.geeksforgeeks.org/huffman-decoding/)

@@ -14,6 +14,12 @@ Alguns algoritmos de primality são [Fermat](https://en.wikipedia.org/wiki/Ferma
 | [v0idpwn](https://github.com/v0idpwn) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/v0idpwn) |
 | [caioluiz](https://github.com/caioluiz) | [Elixir](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/caioluiz) |
 | [mschonfinkel](https://github.com/mschonfinkel) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/mschonfinkel) |
+| [rodrigocam](https://github.com/mschonfinkel) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/rodrigocam) |
+| [souenzzo](https://github.com/souenzzo) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/souenzzo) |
+| [v0idpwn](https://github.com/v0idpwn) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/v0idpwn) |
+| [pliavi](https://github.com/pliavi) | [Erlang](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/pliavi) |
+
+
 
 **Input**: Numero inteiro
 **Output**: Bool(Se é primo ou não)

@@ -13,6 +13,9 @@ Objetivo desse desafio é receber um numero e inverter seus algarismos.
 | [ihavenonickname](https://github.com/ihavenonickname) | [C#](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/ihavenonickname) |
 | [ruan-brandao](https://github.com/ruan-brandao) | [Elixir](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/ruan-brandao) |
 | [rafaels88](https://github.com/rafaels88) | [Elixir](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/rafaels88) |
+| [ingrid](https://github.com/ingrid) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/ingrid) |
+| [rodrigocam](https://github.com/rodrigocam) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/rodrigocam) |
+| [souenzzo](https://github.com/souenzzo) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/souenzzo) |
 
 
 **Input**: Numero inteiro

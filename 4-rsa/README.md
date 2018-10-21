@@ -1,3 +1,7 @@
+| User        | Solution           |
+| ------------- |:-------------:|
+| [souenzzo](https://github.com/souenzzo) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/4-rsa/souenzzo) |
+
 # RSA Challenge
 
 O objetivo desse desafio é fazer uma função que descriptografa uma mensagem utilizando a cryptografia RSA, que se baseia na fatoração de numeros primos.
