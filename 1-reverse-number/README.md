@@ -16,7 +16,7 @@ Objetivo desse desafio é receber um numero e inverter seus algarismos.
 | [ingrid](https://github.com/ingrid) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/ingrid) |
 | [rodrigocam](https://github.com/rodrigocam) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/rodrigocam) |
 | [souenzzo](https://github.com/souenzzo) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/souenzzo) |
-
+| [VitorLuizC](https://github.com/VitorLuizC) | [TypeScript](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/VitorLuizC) |
 
 **Input**: Numero inteiro
 **Output**: Numero inteiro

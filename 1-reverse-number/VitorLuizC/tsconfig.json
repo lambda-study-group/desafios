@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext", "esnext.bigint"],
+    "target": "esnext",
+    "module": "commonjs"
+  }
+}
