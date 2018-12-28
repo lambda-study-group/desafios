@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "npm run build && ava isPrime.spec.js",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "ava": "^1.0.1",
+    "typescript": "^3.2.2"
+  },
+  "ava": {
+    "babel": false,
+    "compileEnhancements": false
+  }
+}

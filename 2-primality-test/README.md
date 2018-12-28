@@ -18,7 +18,7 @@ Alguns algoritmos de primality são [Fermat](https://en.wikipedia.org/wiki/Ferma
 | [souenzzo](https://github.com/souenzzo) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/souenzzo) |
 | [v0idpwn](https://github.com/v0idpwn) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/v0idpwn) |
 | [pliavi](https://github.com/pliavi) | [Erlang](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/pliavi) |
-
+| [VitorLuizC](https://github.com/VitorLuizC) | [TypeScript](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/VitorLuizC) |
 
 
 **Input**: Numero inteiro
