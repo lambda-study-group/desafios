@@ -2,56 +2,97 @@
   {
     "ranking": 1,
     "user": "souenzzo",
-    "pontuation": 16
+    "pontuation": 16,
+    "languages": ["Clojure"]
   },
   {
     "ranking": 2,
-    "user": "mracos",
-    "pontuation": 13
+    "user": "ihavenonickname",
+    "pontuation": 14,
+    "languages": ["C#", "Elixir"]
   },
   {
     "ranking": 3,
-    "user": "anabastos",
-    "pontuation": 13
+    "user": "mracos",
+    "pontuation": 13,
+    "languages": ["Elm", "Elixir"]
   },
   {
     "ranking": 4,
-    "user": "appositum",
-    "pontuation": 12
+    "user": "anabastos",
+    "pontuation": 13,
+    "languages": ["JavaScript", "Clojure"]
   },
   {
     "ranking": 5,
-    "user": "caioluiz",
-    "pontuation": 12
+    "user": "appositum",
+    "pontuation": 12,
+    "languages": ["Python", "Elixir"]
   },
   {
     "ranking": 6,
-    "user": "ihavenonickname",
-    "pontuation": 8
+    "user": "caioluiz",
+    "pontuation": 12,
+    "languages": ["Elixir"]
   },
   {
     "ranking": 7,
-    "user": "ruan-brandao",
-    "pontuation": 7
+    "user": "I-Spangler",
+    "pontuation": 10,
+    "languages": ["Clojure"]
   },
   {
     "ranking": 8,
-    "user": "abekroenem",
-    "pontuation": 6
+    "user": "rodrigocam",
+    "pontuation": 10,
+    "languages": ["Haskell"]
   },
   {
     "ranking": 9,
-    "user": "brunoczim",
-    "pontuation": 6
+    "user": "pliavi",
+    "pontuation": 10,
+    "languages": ["Erlang", "Clojure"]
   },
   {
     "ranking": 10,
-    "user": "v0idpwn",
-    "pontuation": 6
+    "user": "ruan-brandao",
+    "pontuation": 7,
+    "languages": ["Elixir"]
   },
   {
     "ranking": 11,
+    "user": "abekroenem",
+    "pontuation": 6,
+    "languages": ["Python"]
+  },
+  {
+    "ranking": 12,
+    "user": "brunoczim",
+    "pontuation": 6,
+    "languages": ["Haskell"]
+  },
+  {
+    "ranking": 13,
+    "user": "v0idpwn",
+    "pontuation": 6,
+    "languages": ["Haskell"]
+  },
+  {
+    "ranking": 14,
     "user": "mschonfinkel",
-    "pontuation": 5
+    "pontuation": 5,
+    "languages": ["F#", "Haskell"]
+  },
+  {
+    "ranking": 15,
+    "user": "HOOGST",
+    "pontuation": 5,
+    "languages": ["Haskell"]
+  },
+  {
+    "ranking": 16,
+    "user": "rafaels88",
+    "pontuation": 5,
+    "languages": ["Elixir"]
   }
 ]
