@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Reverse Number",
+    "link": "https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/README.md",
+    "solutions": 15
+  },
+  {
+    "name": "Primality Test",
+    "link": "https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/README.md",
+    "solutions": 10
+  },
+  {
+    "name": "Silicon Valley",
+    "link": "https://github.com/lambda-study-group/desafios/tree/master/3-silicon-valley/README.md",
+    "solutions": 2
+  },
+  {
+    "name": "Criptografia RSA",
+    "link": "https://github.com/lambda-study-group/desafios/tree/master/4-rsa/README.md",
+    "solutions": 2
+  },
+  {
+    "name": "Travelling Salesman",
+    "link": "https://github.com/lambda-study-group/desafios/tree/master/5-travelling-salesman/README.md",
+    "solutions": 0
+  }
+]
