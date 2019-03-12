@@ -9,16 +9,21 @@
 | Nome | Pontuação |
 |------|-----------|
 |[souenzzo](https://github.com/souenzzo/)|16|
+|[ihavenonickname](https://github.com/ihavenonickname/)|14|
 |[mracos](https://github.com/mracos/)|13|
 |[anabastos](https://github.com/anabastos/)|13|
 |[appositum](https://github.com/appositum/)|12|
 |[caioluiz](https://github.com/caioluiz/)|12|
-|[ihavenonickname](https://github.com/ihavenonickname/)|8|
+|[I-Spangler](https://github.com/I-Spangler/)|10|
+|[rodrigocam](https://github.com/rodrigocam/)|10|
+|[pliavi](https://github.com/pliavi/)|10|
 |[ruan-brandao](https://github.com/ruan-brandao/)|7|
 |[abekroenem](https://github.com/abekroenem/)|6|
 |[brunoczim](https://github.com/brunoczim/)|6|
 |[v0idpwn](https://github.com/v0idpwn/)|6|
 |[mschonfinkel](https://github.com/mschonfinkel/)|5|
+|[HOOGST](https://github.com/HOOGST/)|5|
+|[rafaels88](https://github.com/rafaels88/)|5|
 
 ## Pontos para avaliação ✅
 - Enviar desafio incompleto +3

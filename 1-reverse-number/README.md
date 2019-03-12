@@ -17,6 +17,9 @@ Objetivo desse desafio é receber um numero e inverter seus algarismos.
 | [rodrigocam](https://github.com/rodrigocam) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/rodrigocam) |
 | [souenzzo](https://github.com/souenzzo) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/souenzzo) |
 | [VitorLuizC](https://github.com/VitorLuizC) | [TypeScript](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/VitorLuizC) |
+| [mschonfinkel](https://github.com/mschonfinkel) | [F#](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/mschonfinkel) | 
+| [I-Spangler](https://github.com/I-Spangler) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/ingrid) | 
+| [HOOGST](https://github.com/HOOGST) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/TERRIBLE) | 
 
 **Input**: Numero inteiro
 **Output**: Numero inteiro
