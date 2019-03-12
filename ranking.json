@@ -49,6 +49,12 @@
   },
   {
     "ranking": 9,
+    "user": "VitorLuizC",
+    "pontuation": 10,
+    "languages": ["TypeScript"]
+  },
+  {
+    "ranking": 9,
     "user": "pliavi",
     "pontuation": 10,
     "languages": ["Erlang", "Clojure"]

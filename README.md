@@ -16,6 +16,7 @@
 |[caioluiz](https://github.com/caioluiz/)|12|
 |[I-Spangler](https://github.com/I-Spangler/)|10|
 |[rodrigocam](https://github.com/rodrigocam/)|10|
+|[VitorLuizC](https://github.com/VitorLuizC/)|10|
 |[pliavi](https://github.com/pliavi/)|10|
 |[ruan-brandao](https://github.com/ruan-brandao/)|7|
 |[abekroenem](https://github.com/abekroenem/)|6|
