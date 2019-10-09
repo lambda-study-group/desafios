@@ -20,6 +20,7 @@ Objetivo desse desafio é receber um numero e inverter seus algarismos.
 | [mschonfinkel](https://github.com/mschonfinkel) | [F#](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/mschonfinkel) | 
 | [I-Spangler](https://github.com/I-Spangler) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/ingrid) | 
 | [HOOGST](https://github.com/HOOGST) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/TERRIBLE) | 
+| [patriciafelixx](https://github.com/patriciafelixx) | [Javascript](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/patriciafelixx) |
 
 **Input**: Numero inteiro
 **Output**: Numero inteiro

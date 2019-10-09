@@ -19,6 +19,8 @@ Alguns algoritmos de primality são [Fermat](https://en.wikipedia.org/wiki/Ferma
 | [pliavi](https://github.com/pliavi) | [Erlang](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/pliavi) |
 | [VitorLuizC](https://github.com/VitorLuizC) | [TypeScript](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/VitorLuizC) |
 | [I-Spangler](https://github.com/I-Spangler) | [Clojure](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/ingrid) | 
+| [patriciafelixx](https://github.com/patriciafelixx) | [Javascript](https://github.com/lambda-study-group/desafios/tree/master/2-primality-test/patriciafelixx) |
+
 
 **Input**: Numero inteiro
 **Output**: Bool(Se é primo ou não)

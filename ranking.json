@@ -100,5 +100,11 @@
     "user": "rafaels88",
     "pontuation": 5,
     "languages": ["Elixir"]
-  }
+   },
+   {
+    "ranking": 17,
+    "user": "patriciafelixx",
+    "pontuation": 5,
+    "languages": ["Javascript"]
+   }
 ]

@@ -25,6 +25,7 @@
 |[mschonfinkel](https://github.com/mschonfinkel/)|5|
 |[HOOGST](https://github.com/HOOGST/)|5|
 |[rafaels88](https://github.com/rafaels88/)|5|
+|[patriciafelixx](https://github.com/patriciafelixx)|5|
 
 ## Pontos para avaliação ✅
 - Enviar desafio incompleto +3
