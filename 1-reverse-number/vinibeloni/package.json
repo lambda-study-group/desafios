@@ -1,0 +1,15 @@
+{
+  "name": "vinibeloni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverse.js",
+  "dependencies": {
+    "bignumber.js": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node reverse.js"
+  },
+  "author": "vinibeloni",
+  "license": "MIT"
+}
