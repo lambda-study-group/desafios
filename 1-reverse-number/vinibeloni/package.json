@@ -11,5 +11,5 @@
     "start": "node reverse.js"
   },
   "author": "vinibeloni",
-  "license": "ISC"
+  "license": "MIT"
 }
