@@ -4,6 +4,8 @@
 1. [Primality Test](2-primality-test/README.md)
 3. [Silicon Valley - Huffman compression](3-silicon-valley/README.md)
 4. [Cryptografia RSA](4-rsa/README.md)
+5. [Travelling Salesman](5-travelling-salesman/README.md)
+
 ## Ranking 🏆
 
 | Nome | Pontuação |
